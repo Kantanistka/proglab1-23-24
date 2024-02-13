@@ -1,0 +1,4 @@
+*.*
+!Res2/CMakeLists.txt
+!Res2/lab2.var7.cpp
+*.jpg
