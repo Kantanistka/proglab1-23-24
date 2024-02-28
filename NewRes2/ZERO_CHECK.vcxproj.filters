@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kypri\source\repos\proglab1-23-24\NewRes2\CMakeFiles\40c7fd817cf0eeddb54b48b0b93698b6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DEB14340-2347-3EDF-9282-02C2E2CA092B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

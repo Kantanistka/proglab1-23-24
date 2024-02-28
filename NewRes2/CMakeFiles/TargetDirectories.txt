@@ -1,0 +1,3 @@
+C:/Users/kypri/source/repos/proglab1-23-24/NewRes2/CMakeFiles/lab2.dir
+C:/Users/kypri/source/repos/proglab1-23-24/NewRes2/CMakeFiles/ALL_BUILD.dir
+C:/Users/kypri/source/repos/proglab1-23-24/NewRes2/CMakeFiles/ZERO_CHECK.dir
